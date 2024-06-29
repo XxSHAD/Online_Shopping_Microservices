@@ -1,0 +1,8 @@
+customer/node_modules/
+customer/package-lock.json
+
+products/node_modules/
+products/package-lock.json
+
+shopping/node_modules/
+shopping/package-lock.json
